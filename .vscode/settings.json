@@ -1,0 +1,6 @@
+{
+    "files.exclude": {
+        "**/__pycache__": true, // Oculta a visualização dos arquivos __pycache__, mas não os remove
+        "**/.pytest_cache": true
+    }
+}
